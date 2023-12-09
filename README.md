@@ -20,28 +20,33 @@ The Bloomington City Service Requests Multi-Category Dashboard is an integrated 
 - The dashboard includes a map highlighting potholes and vegetation-related service requests.
 - Users can filter by year, providing a temporal analysis of these specific issues.
 - The map dynamically updates to reflect changes in response times and other relevant metrics.
+![Screenshot 2023-12-09 113313](https://github.com/MustafaAlsaegh/Bloomington-Dashboard/assets/96810312/5a2d59ce-58e7-47c8-925e-9ad2165a1b2c)
+
 
 ### 2. Graffiti Complaints Map:
 
 - A dedicated map displays the geographical distribution of graffiti-related service requests.
 - The bubble size on the map corresponds to the number of reports at each location.
 - Users can explore detailed information by clicking on individual data points.
+![Screenshot 2023-12-09 113332](https://github.com/MustafaAlsaegh/Bloomington-Dashboard/assets/96810312/ba9e896f-3237-4849-aa79-a464a87df818)
 
 ### 3. Biking and Walking Issues Map:
 
 - The map focuses on biking and walking-related service requests, categorizing them as open or closed.
 - Users can visualize trends and patterns related to these specific types of requests.
+![Screenshot 2023-12-09 113346](https://github.com/MustafaAlsaegh/Bloomington-Dashboard/assets/96810312/317c4f15-82a5-4c37-b8f3-ddc77a547dc7)
 
 ### 4. Sidewalk Requests Map:
 
 - This map showcases the status of sidewalk-related service requests, distinguishing between open and closed cases.
 - Detailed information is available for each request, providing insights into response times and outcomes.
+![Screenshot 2023-12-09 113357](https://github.com/MustafaAlsaegh/Bloomington-Dashboard/assets/96810312/eb192676-9697-40d6-8fc1-f9b6a2c8faa4)
 
 ### 5. Property Rentals Map:
 
 - The dashboard integrates a map displaying different types of rental properties categorized by color.
 - Users can explore details about each property type, enhancing their understanding of housing patterns in the city.
-
+![Screenshot 2023-12-09 113411](https://github.com/MustafaAlsaegh/Bloomington-Dashboard/assets/96810312/2b886b2d-5afa-49cf-b1dd-95610d9cef76)
 
 
 
